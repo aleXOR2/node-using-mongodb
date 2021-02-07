@@ -1,0 +1,31 @@
+0) install docker-compose
+pacman -Sy
+pacman -Ss docker-compose
+pacman -S docker-compose
+https://docs.mongodb.com/manual/reference/method/db.auth/
+
+1) start docker service
+systemctl start docker.service 
+
+
+2) create a compose and run it
+https://linuxhint.com/setup_mongodb_server_docker/
+https://www.bmc.com/blogs/mongodb-docker-container/
+
+
+where are the modules to check against?
+
+https://github.com/pluralsight-projects/node-using-mongodb/blob/Module-3/index.js
+
+2
+Add MongoDB & Mongoose connection
+2 tasks | 30m
+1. Add Mongoose to our project
+2. Create the connection to Mongoose
+3
+Schema Creation & First Route
+4
+Basic CRUD Endpoints
+5
+Changing Data with CRUD
+
